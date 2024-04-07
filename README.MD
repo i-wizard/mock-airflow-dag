@@ -18,7 +18,7 @@ docker-compose up --build
 ## Without Docker
 Create and activate virtual environment using `Python >=v3.10.0`
 ```bash
-python -m venv venv && source venv/bin/activate
+python3 -m venv venv && source venv/bin/activate
 ```
 Install project dependencies
 ```bash
